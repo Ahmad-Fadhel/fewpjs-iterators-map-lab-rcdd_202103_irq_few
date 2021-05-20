@@ -19,5 +19,4 @@ const titleCased = (tutorials) => {
     }
     return tutorial.join(' ');
   });
-  return tutorials
 }
